@@ -1,4 +1,4 @@
-# Resolução da Lista de Exercícios 1 do Case de IA
+# Resolução da Lista 1 de Exercícios do Case de IA
 
 ## Módulo 1.1: Fundamentos de IA e Machine Learning
 
